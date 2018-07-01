@@ -1,29 +1,32 @@
-from turtle import *
+# from turtle import *
 
-shape ("turtle")
-speed (-1)
+# shape ("turtle")
+# speed (-1)
 
-color ("red")
+# color ("red")
 
-for i in range (4):
-    forward (100)
-    left (90)
+# for i in range (4):
+#     forward (100)
+#     left (90)
 
-for j in range (6):
-    forward (100)
-    left (60)
+# for j in range (6):
+#     forward (100)
+#     left (60)
 
 
-color ("blue")
+# color ("blue")
 
-left (60)
-forward (100)
-right (120)
-forward (100)
-left (132)
+# left (60)
+# forward (100)
+# right (120)
+# forward (100)
+# left (132)
 
-for l in range (4):
-    forward (100)
-    left (72)
+# for l in range (4):
+#     forward (100)
+#     left (72)
 
-mainloop ()
+# mainloop ()
+
+# su dung for lap for 
+
