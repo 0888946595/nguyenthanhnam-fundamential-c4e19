@@ -3,12 +3,14 @@ from turtle import *
 shape = ("turte")
 
 speed (-1)
-
-for i in range (20):
+a = 100
+left (135)
+for i in range (30):
     for j in range (4):
-        forward (100)
+        forward (a)
         left (90)
-    left (85)
+    right (8)
+    a = a + 5
     
 
 
