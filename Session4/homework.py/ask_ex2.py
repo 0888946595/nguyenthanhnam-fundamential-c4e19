@@ -1,3 +1,2 @@
 nhap = int(input("Enter Your Balance: "))
-
-upt = 
+print ("Update your balance: $ ",format(nhap, ","))
